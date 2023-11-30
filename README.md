@@ -81,7 +81,4 @@ leo run make_move 2u8 2u8 2u8 "{ r1: { c1: 1u8, c2: 0u8, c3: 0u8 }, r2: { c1: 0u
 | 1 | 0 | 0 |
 | 0 | 2 | 0 |
 | 0 | 0 | 0 |
-=======
-# aleo-tictactoe-app
-Aleo TicTacToe App
- 33e4d8af123808be7804927a4d33aa9f91af8bda
+
